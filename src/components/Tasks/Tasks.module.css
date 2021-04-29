@@ -1,0 +1,16 @@
+.container {
+  text-align: center;
+}
+
+.container ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  display: ruby-base-container;
+
+  /* display: flex;
+  justify-content: center;
+  flex-direction: column; /* change this to row instead of 'column' */
+  /* flex-wrap: wrap-reverse; added flex-wrap */
+}
